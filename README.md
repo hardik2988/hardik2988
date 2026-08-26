@@ -4,8 +4,9 @@
 
 # Hi 👋, I'm Hardik Kumar
 
-🎓 B.Tech CSE (Immersive Technology) @ UPES
+## 🚀 About Me
 
+🎓 B.Tech CSE (Immersive Technology) @ UPES
 🤖 Passionate about Artificial Intelligence, Machine Learning, and AR/VR
 
 🌱 Currently learning:
