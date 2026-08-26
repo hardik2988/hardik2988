@@ -14,14 +14,15 @@
 
 # 🚀 About Me
 
-- 🎓 First-Year B.Tech CSE (Immersive Technology) Student at **UPES Dehradun**
+- 🎓 First-Year **B.Tech CSE (Immersive Technology)** student at **UPES Dehradun**
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **AR/VR**
 - 🌱 Currently learning **C, Python, Git & GitHub**
-- 🎯 Goal: Build real-world AI applications and contribute to Open Source.
+- 🚀 Building projects to strengthen my software development and AI skills
+- 🎯 Goal: Build impactful AI applications and contribute to Open Source
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux" />
@@ -29,31 +30,21 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardik2988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik2988&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hardik2988&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=hardik2988&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📌 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hardik2988&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
+- 💻 100 Days of C
+- 🤖 AI & Machine Learning
+- 🥽 Immersive Technology
+- 🌐 Open Source
+- 🚀 Building Better Projects
 
 ---
 
@@ -71,8 +62,8 @@
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!** ⭐
+### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+*"Code • Learn • Build • Repeat"* 🚀
 
 </div>
