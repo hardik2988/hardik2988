@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Hardik Kumar Banner"/>
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Hardik+Kumar;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Immersive+Technology+Student;Building+Projects+Every+Day+🚀" alt="Typing SVG" />
 </p>
 
